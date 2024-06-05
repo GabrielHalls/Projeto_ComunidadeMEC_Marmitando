@@ -53,5 +53,5 @@ Uma vez que a compra é finalizada, os usuários são direcionados para o WhatsA
 
 ### Contato
 
-Se você tiver alguma dúvida ou feedback, entre em contato conosco em [rafael_mauricio@hotmail.com].
-[linkedin](https://www.linkedin.com/in/rafael-mauricio-dev/)
+Se você tiver alguma dúvida ou feedback, entre em contato conosco em [gabriel.deussousa@hotmail.com].
+[linkedin](https://www.linkedin.com/in/gabrielsousa94/)
